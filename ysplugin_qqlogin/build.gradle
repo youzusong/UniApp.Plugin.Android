@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    compileOnly fileTree(dir: 'libs', include: ['*.jar'])
 
     compileOnly fileTree(dir: '../app/libs', include: ['uniapp-release.aar'])
 

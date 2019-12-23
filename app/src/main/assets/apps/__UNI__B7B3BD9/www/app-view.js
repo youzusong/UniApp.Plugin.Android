@@ -1068,8 +1068,12 @@ Z([3,'text-area'])
 Z([3,'title'])
 Z([a,[[7],[3,'title']]])
 Z([3,'__e'])
-Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'qqlogin']],[[4],[[5],[1,'$event']]]]]]]]]]])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'richalert']],[[4],[[5],[1,'$event']]]]]]]]]]])
 Z([3,'primary'])
+Z([3,'Rich Alert'])
+Z(z[6])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'qqlogin']],[[4],[[5],[1,'$event']]]]]]]]]]])
+Z(z[8])
 Z([3,'QQ Login'])
 })(__WXML_GLOBAL__.ops_cached.$gwx_1);return __WXML_GLOBAL__.ops_cached.$gwx_1
 }
@@ -1103,6 +1107,10 @@ var hG=_mz(z,'button',['bindtap',6,'data-event-opts',1,'type',2],[],e,s,gg)
 var oH=_oz(z,9,e,s,gg)
 _(hG,oH)
 _(oB,hG)
+var cI=_mz(z,'button',['bindtap',10,'data-event-opts',1,'type',2],[],e,s,gg)
+var oJ=_oz(z,13,e,s,gg)
+_(cI,oJ)
+_(oB,cI)
 _(r,oB)
 return r
 }
@@ -1110,10 +1118,10 @@ e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
 d_[x[1]]={}
 var m1=function(e,s,r,gg){
 var z=gz$gwx_2()
-var oJ=_n('view')
-var lK=_oz(z,0,e,s,gg)
-_(oJ,lK)
-_(r,oJ)
+var aL=_n('view')
+var tM=_oz(z,0,e,s,gg)
+_(aL,tM)
+_(r,aL)
 return r
 }
 e_[x[1]]={f:m1,j:[],i:[],ti:[],ic:[]}

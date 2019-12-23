@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "G:\\Sources\\uni-app\\Android-SDK@2.4.6.71983_20191211\\UniPlugin-Hello-AS\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "outputFile": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\You\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c0b833abbca0c2c1c7ece8400bd4a4e\\res\\values-ru\\values-ru.xml",

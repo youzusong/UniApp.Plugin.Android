@@ -188,7 +188,7 @@ public class RichAlert {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int n) {
                         JSONObject result = new JSONObject();
-                        result.put("type", "button");
+                        result.put("type", "按钮");
                         result.put("index", index);
                         jsCallback.invoke(result);
                     }
