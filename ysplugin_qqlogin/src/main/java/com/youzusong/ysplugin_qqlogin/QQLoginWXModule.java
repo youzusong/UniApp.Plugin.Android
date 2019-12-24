@@ -47,6 +47,19 @@ public class QQLoginWXModule  extends WXSDKEngine.DestroyableModule{
         }
     }
 
+    @JSMethod(uiThread = true)
+    public void test(JSONObject options, JSCallback jsCallback) {
+
+        String appId = options.getString("appId");
+
+        Toast.makeText(mWXSDKInstance.getContext(), "test " + appId, Toast.LENGTH_SHORT).show();
+
+        JSONObject result = new JSONObject();
+        result.put("appId", appId);
+        result.put("success", "true");
+        jsCallback.invokeAndKeepAlive(result);
+    }
+
     @Override
     public void destroy() {
 

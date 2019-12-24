@@ -1075,6 +1075,11 @@ Z(z[6])
 Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'qqlogin']],[[4],[[5],[1,'$event']]]]]]]]]]])
 Z(z[8])
 Z([3,'QQ Login'])
+Z(z[6])
+Z([[4],[[5],[[4],[[5],[[5],[1,'tap']],[[4],[[5],[[4],[[5],[[5],[1,'testClick']],[[4],[[5],[1,'$event']]]]]]]]]]])
+Z(z[8])
+Z([3,'test click'])
+Z([a,[[7],[3,'errmsg']]])
 })(__WXML_GLOBAL__.ops_cached.$gwx_1);return __WXML_GLOBAL__.ops_cached.$gwx_1
 }
 function gz$gwx_2(){
@@ -1111,6 +1116,14 @@ var cI=_mz(z,'button',['bindtap',10,'data-event-opts',1,'type',2],[],e,s,gg)
 var oJ=_oz(z,13,e,s,gg)
 _(cI,oJ)
 _(oB,cI)
+var lK=_mz(z,'button',['bindtap',14,'data-event-opts',1,'type',2],[],e,s,gg)
+var aL=_oz(z,17,e,s,gg)
+_(lK,aL)
+_(oB,lK)
+var tM=_n('text')
+var eN=_oz(z,18,e,s,gg)
+_(tM,eN)
+_(oB,tM)
 _(r,oB)
 return r
 }
@@ -1118,10 +1131,10 @@ e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
 d_[x[1]]={}
 var m1=function(e,s,r,gg){
 var z=gz$gwx_2()
-var aL=_n('view')
-var tM=_oz(z,0,e,s,gg)
-_(aL,tM)
-_(r,aL)
+var oP=_n('view')
+var xQ=_oz(z,0,e,s,gg)
+_(oP,xQ)
+_(r,oP)
 return r
 }
 e_[x[1]]={f:m1,j:[],i:[],ti:[],ic:[]}

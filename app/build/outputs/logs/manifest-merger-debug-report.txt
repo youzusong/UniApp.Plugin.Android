@@ -710,7 +710,7 @@ ADDED from [:ysplugin_qqlogin] G:\Projects\You\UniApp.Plugin.Android\ysplugin_qq
 		ADDED from [:ysplugin_qqlogin] G:\Projects\You\UniApp.Plugin.Android\ysplugin_qqlogin\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:13-37
 	android:name
 		ADDED from [:ysplugin_qqlogin] G:\Projects\You\UniApp.Plugin.Android\ysplugin_qqlogin\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:13-58
-intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:xxx
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tencent1110039343
 ADDED from [:ysplugin_qqlogin] G:\Projects\You\UniApp.Plugin.Android\ysplugin_qqlogin\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:13-26:29
 activity#com.tencent.connect.common.AssistActivity
 ADDED from [:ysplugin_qqlogin] G:\Projects\You\UniApp.Plugin.Android\ysplugin_qqlogin\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28:9-31:75
