@@ -9,6 +9,15 @@
           "class": "com.youzusong.ysplugin_qqlogin.QQLoginWXModule"
         }
       ]
+    },{
+      "hooksClass": "com.you.uniplugin_google_login.GoogleLogin_AppProxy",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "YS-GGLogin",
+          "class": "com.you.uniplugin_google_login.GoogleLoginWXModule"
+        }
+      ]
     }
   ]
 }

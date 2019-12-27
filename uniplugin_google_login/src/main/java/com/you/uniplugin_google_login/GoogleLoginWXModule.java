@@ -33,9 +33,13 @@ public class GoogleLoginWXModule extends WXSDKEngine.DestroyableModule {
         }
 
         try {
-            Toast.makeText(mWXSDKInstance.getContext(), "Run Module", Toast.LENGTH_SHORT).show();
+            Toast.makeText(mWXSDKInstance.getContext(), "Run Module GG", Toast.LENGTH_SHORT).show();
 
             String clientId = options.getString("clientId");
+
+            tracking("获取clientid：" + clientId, jsCallback);
+
+            tracking("设定选项值", jsCallback);
 
             // 设定选项值
             GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
@@ -45,21 +49,32 @@ public class GoogleLoginWXModule extends WXSDKEngine.DestroyableModule {
                     .requestProfile()
                     .build();
 
+
+            tracking("获取client", jsCallback);
+
             // 获取client
             GoogleSignInClient signInClient = GoogleSignIn.getClient(mContext, gso);
 
+
+            tracking("获取intent", jsCallback);
+
             // 获取intent
             Intent signInIntent = signInClient.getSignInIntent();
+
+            tracking("开启登录视窗", jsCallback);
 
             // 开启登录视窗
             ((Activity) mContext).startActivityForResult(signInIntent, RC_SIGN_IN);
 
         } catch (Exception ex) {
-            JSONObject result = new JSONObject();
-            result.put("method", "GoogleLoginWXModule.login");
-            result.put("msg", ex.getMessage());
-            mJsCallback.invokeAndKeepAlive(result);
+            tracking("GoogleLoginWXModule.login - error:" + ex.getMessage(), jsCallback);
         }
+    }
+
+    private void tracking(String msg, JSCallback jsCallback) {
+        JSONObject result = new JSONObject();
+        result.put("msg", msg);
+        jsCallback.invokeAndKeepAlive(result);
     }
 
     @Override
@@ -80,12 +95,6 @@ public class GoogleLoginWXModule extends WXSDKEngine.DestroyableModule {
             try {
                 GoogleSignInAccount account = task.getResult(ApiException.class);
                 Toast.makeText(mContext, "GG登录成功", Toast.LENGTH_SHORT).show();
-
-                String personName = account.getDisplayName();
-                String personGivenName = account.getGivenName();
-                String personFamilyName = account.getFamilyName();
-                String personEmail = account.getEmail();
-                String personId = account.getId();
 
                 JSONObject obj = new JSONObject();
                 obj.put("displayName", account.getDisplayName());

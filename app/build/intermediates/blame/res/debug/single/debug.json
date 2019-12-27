@@ -96,10 +96,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\anim\\abc_fade_out.xml"
     },
@@ -224,10 +220,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -268,10 +260,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6bba5ad633414bb113b0c185590fd587\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
@@ -296,10 +284,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\select_dialog_multichoice_material.xml"
     },
@@ -314,10 +298,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_streamapp_icon.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\drawable-xhdpi-v4\\dcloud_streamapp_icon.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -396,14 +376,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\color\\common_google_signin_btn_tint.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_right_out.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\anim\\dcloud_slide_right_out.xml"
     },
@@ -444,10 +416,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_dcloud_slide_out_to_right.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\anim\\dcloud_slide_out_to_right.xml"
     },
@@ -458,10 +426,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
@@ -512,10 +476,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_dcloud_circle_black_progress.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\drawable-hdpi-v4\\dcloud_circle_black_progress.xml"
     },
@@ -554,10 +514,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
@@ -660,10 +616,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\tooltip_frame_light.xml"
     },
@@ -716,10 +668,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color-v23\\abc_color_highlight_material.xml"
     },
@@ -752,16 +700,8 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
@@ -776,20 +716,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ad_dcloud_main_skip_bg.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\drawable\\ad_dcloud_main_skip_bg.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6bba5ad633414bb113b0c185590fd587\\res\\layout\\notification_media_cancel_action.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -808,20 +740,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-17.0.0.aar\\b69af5775d1df79b6b4d1ffe989fb187\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_ad_dcloud_splash.xml.flat",
@@ -836,28 +760,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_image_pick_gallery_item.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\layout\\dcloud_image_pick_gallery_item.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
@@ -900,20 +808,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\color\\common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -950,10 +850,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1016,10 +912,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
@@ -1080,16 +972,8 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1114,10 +998,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\6bba5ad633414bb113b0c185590fd587\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1224,12 +1104,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1276,20 +1156,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_divider_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_list_divider_material.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dcloud_custom_notification_dark.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\layout\\dcloud_custom_notification_dark.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
@@ -1344,10 +1216,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\layout\\dcloud_activity_main_market.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color\\abc_search_url_text.xml"
     },
@@ -1356,12 +1224,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1408,20 +1276,16 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\xml_dcloud_file_provider.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\xml\\dcloud_file_provider.xml"
+    },
+    {
+        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
+        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
@@ -1436,20 +1300,12 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1536,10 +1392,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\drawable-hdpi-v4\\dcloud_snow_white.png"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -1554,10 +1406,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
@@ -1626,10 +1474,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -1840,10 +1684,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1866,10 +1706,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_popup_menu_header_item_layout.xml"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1910,10 +1746,6 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_dcloud_actionsheet_single_normal.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\drawable-xhdpi-v4\\dcloud_actionsheet_single_normal.9.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
@@ -2028,10 +1860,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-17.0.0.aar\\b69af5775d1df79b6b4d1ffe989fb187\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable\\abc_btn_colored_material.xml"
     },
@@ -2116,10 +1944,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
@@ -2172,10 +1996,6 @@
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-base-17.0.0.aar\\a826f891a0842ebee8cbfe93f2d3caa1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
-    },
-    {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\color_dcloud_slt_about_text_color.xml.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\lib.5plus.base-release.aar\\2a655176f33e326d4041450ccebde4c6\\res\\color\\dcloud_slt_about_text_color.xml"
     },
@@ -2222,9 +2042,5 @@
     {
         "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\play-services-auth-17.0.0.aar\\b69af5775d1df79b6b4d1ffe989fb187\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
     }
 ]
