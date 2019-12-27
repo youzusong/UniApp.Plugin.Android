@@ -32,9 +32,9 @@ public class QQLoginWXModule  extends WXSDKEngine.DestroyableModule{
         mJsCallback = jsCallback;
 
         try{
-            String appId = options.getString("appId");
+            Toast.makeText(mWXSDKInstance.getContext(), "Run Module", Toast.LENGTH_SHORT).show();
 
-            Toast.makeText(mWXSDKInstance.getContext(), "Run " + appId, Toast.LENGTH_SHORT).show();
+            String appId = options.getString("appId");
 
             mTencent = Tencent.createInstance(appId, mContext);
             mTencent.login((Activity) mContext, "all", new QQLoginLisenter());
