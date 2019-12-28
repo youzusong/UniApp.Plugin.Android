@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.DialogInterface;
 import android.graphics.Color;
 import android.text.TextUtils;
+import android.widget.Toast;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
@@ -29,6 +30,9 @@ public class RichAlertWXModule extends WXSDKEngine.DestroyableModule {
     @JSMethod(uiThread = true)
     public void show(JSONObject options, JSCallback jsCallback) {
         if (mWXSDKInstance.getContext() instanceof Activity) {
+
+            Toast.makeText(mWXSDKInstance.getContext(),"Run Module RA", Toast.LENGTH_SHORT).show();
+
             String content = options.getString(CONTENT);
             int contentColor = WXResourceUtils.getColor(options.getString(CONTENT_COLOR), defColor);
             String contentAlign = options.getString(CONTENT_ALIGN);

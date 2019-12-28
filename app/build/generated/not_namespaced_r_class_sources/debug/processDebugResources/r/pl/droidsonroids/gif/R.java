@@ -12,18 +12,18 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int freezesAnimation = 0x7f020093;
-        public static final int gifSource = 0x7f020095;
-        public static final int isOpaque = 0x7f0200a4;
-        public static final int loopCount = 0x7f0200be;
+        public static final int freezesAnimation = 0x7f020096;
+        public static final int gifSource = 0x7f020098;
+        public static final int isOpaque = 0x7f0200a9;
+        public static final int loopCount = 0x7f0200c3;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] GifTextureView = { 0x7f020095, 0x7f0200a4 };
+        public static final int[] GifTextureView = { 0x7f020098, 0x7f0200a9 };
         public static final int GifTextureView_gifSource = 0;
         public static final int GifTextureView_isOpaque = 1;
-        public static final int[] GifView = { 0x7f020093, 0x7f0200be };
+        public static final int[] GifView = { 0x7f020096, 0x7f0200c3 };
         public static final int GifView_freezesAnimation = 0;
         public static final int GifView_loopCount = 1;
     }

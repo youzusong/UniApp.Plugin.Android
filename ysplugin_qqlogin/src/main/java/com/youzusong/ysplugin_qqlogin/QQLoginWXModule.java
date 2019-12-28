@@ -32,7 +32,7 @@ public class QQLoginWXModule  extends WXSDKEngine.DestroyableModule{
         mJsCallback = jsCallback;
 
         try{
-            Toast.makeText(mWXSDKInstance.getContext(), "Run Module", Toast.LENGTH_SHORT).show();
+            Toast.makeText(mWXSDKInstance.getContext(), "Run Module QQ", Toast.LENGTH_SHORT).show();
 
             String appId = options.getString("appId");
 

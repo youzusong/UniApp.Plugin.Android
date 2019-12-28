@@ -4,7 +4,7 @@
             "outputFile": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
-                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\values-v17\\values-v17.xml",
+                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\d633b09f0b397c7ab1f7658bf5dbdfaf\\res\\values-v17\\values-v17.xml",
                     "from": {
                         "startLines": "2,5,9,12,15,18,22,25,29,33,37,40,43,46,50,53,57",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -38,11 +38,11 @@ repositories {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation fileTree(include: ['*.aar'], dir: 'libs')
-    implementation 'com.android.support:support-v4:28.0.0'
-    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'com.android.support:support-v4:26.1.0'
+    implementation 'com.android.support:appcompat-v7:26.1.0'
 
     // uniapp所需库
-    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.android.support:recyclerview-v7:26.1.0'
     implementation 'com.facebook.fresco:fresco:1.13.0'
     implementation 'com.facebook.fresco:animated-gif:1.13.0'
 
@@ -50,8 +50,11 @@ dependencies {
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     implementation 'com.alibaba:fastjson:1.1.46.android'
 
+    implementation 'com.google.android.gms:play-services-auth:17.0.0'
+
     // 添加uni-app插件
     implementation project(':uniplugin_richalert')
     implementation project(':ysplugin_qqlogin')
-    implementation project(path: ':uniplugin_google_login')
+    implementation project(':uniplugin_google_login')
+
 }

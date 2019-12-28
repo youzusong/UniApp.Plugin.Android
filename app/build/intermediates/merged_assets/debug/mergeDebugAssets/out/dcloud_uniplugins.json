@@ -1,6 +1,14 @@
 {
-  "nativePlugins": [
-    {
+  "nativePlugins": [{
+    "hooksClass": "uni.dcloud.io.uniplugin_richalert.RichAlert_AppProxy",
+    "plugins": [
+      {
+        "type": "module",
+        "name": "DCloud-RichAlert",
+        "class": "uni.dcloud.io.uniplugin_richalert.RichAlertWXModule"
+      }
+    ]
+  },{
       "hooksClass": "com.youzusong.ysplugin_qqlogin.QQLogin_AppProxy",
       "plugins": [
         {

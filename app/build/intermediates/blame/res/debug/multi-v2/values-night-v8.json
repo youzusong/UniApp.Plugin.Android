@@ -4,7 +4,7 @@
             "outputFile": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\3b5e664cb74367ee628d56c634c343c6\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\d633b09f0b397c7ab1f7658bf5dbdfaf\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

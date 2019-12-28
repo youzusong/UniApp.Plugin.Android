@@ -4,7 +4,7 @@
             "outputFile": "G:\\Projects\\You\\UniApp.Plugin.Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\uniapp-release.aar\\817b2f16ad002d15289255bf43bfb476\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "G:\\andorid\\gradle\\caches\\transforms-1\\files-1.1\\jetified-uniapp-release.aar\\2aac319d099f28ace0e2fec0303c6d4d\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
