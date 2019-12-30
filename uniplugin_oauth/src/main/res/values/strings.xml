@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">uniplugin_oauth</string>
+
+    <!-- QQ -->
+    <string name="ys_oauth_qq_app_id">1110039343</string>
+
+    <!-- Google -->
+    <string name="ys_oauth_google_client_id">244668994570-dn376h0ls5gl99si6rrp6lg13tu2ecvq.apps.googleusercontent.com</string>
+
+    <!-- Facebook -->
+    <string name="ys_oauth_facebook_app_id">768796370124855</string>
+    <string name="ys_oauth_facebook_login_protocol_scheme">fb768796370124855</string>
+
+    <!-- Line -->
+    <string name="ys_oauth_line_channel_id">1653717040</string>
+
+    <!-- Yahoo -->
+    <string name="ys_oauth_yahoo_app_id">xxx</string>
+
+</resources>

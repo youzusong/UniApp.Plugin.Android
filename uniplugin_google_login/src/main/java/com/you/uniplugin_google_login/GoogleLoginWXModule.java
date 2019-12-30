@@ -35,9 +35,10 @@ public class GoogleLoginWXModule extends WXSDKEngine.DestroyableModule {
         try {
             Toast.makeText(mWXSDKInstance.getContext(), "Run Module GG", Toast.LENGTH_SHORT).show();
 
-            String clientId = options.getString("clientId");
+            //String clientId = options.getString("clientId");
+            String clientId = mContext.getString(R.string.open_google_client_id);
 
-            tracking("获取clientid：" + clientId, jsCallback);
+            tracking("设定clientid：" + clientId, jsCallback);
 
             tracking("设定选项值", jsCallback);
 

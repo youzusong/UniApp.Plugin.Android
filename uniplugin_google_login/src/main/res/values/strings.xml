@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">uniplugin_google_login</string>
+
+    <string name="open_google_client_id">module-244668994570-dn376h0ls5gl99si6rrp6lg13tu2ecvq.apps.googleusercontent.com</string>
+
 </resources>

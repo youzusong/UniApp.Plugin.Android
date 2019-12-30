@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId "com.HBuilder.integrate"
+        applicationId "com.youzusong.uniapp"
         minSdkVersion 19
         targetSdkVersion 28 //建议此属性值设为21 io.dcloud.PandoraEntry 作为apk入口时   必须设置 targetSDKVersion>=21 沉浸式才生效
 
@@ -46,15 +46,15 @@ dependencies {
     implementation 'com.facebook.fresco:fresco:1.13.0'
     implementation 'com.facebook.fresco:animated-gif:1.13.0'
 
-    // 基座需要，必须添加
+    // 基座所需库
     implementation 'com.github.bumptech.glide:glide:4.9.0'
     implementation 'com.alibaba:fastjson:1.1.46.android'
 
-    implementation 'com.google.android.gms:play-services-auth:17.0.0'
+    //implementation 'com.google.android.gms:play-services-auth:17.0.0'
 
-    // 添加uni-app插件
-    implementation project(':uniplugin_richalert')
-    implementation project(':ysplugin_qqlogin')
-    implementation project(':uniplugin_google_login')
+    // uni-app插件Module
+    implementation project(':uniplugin_oauth')
+    //implementation project(':ysplugin_qqlogin')
+    //implementation project(':uniplugin_google_login')
 
 }

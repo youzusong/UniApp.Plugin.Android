@@ -52,6 +52,7 @@ public class QQLoginWXModule  extends WXSDKEngine.DestroyableModule{
 
         String appId = options.getString("appId");
 
+
         Toast.makeText(mWXSDKInstance.getContext(), "test " + appId, Toast.LENGTH_SHORT).show();
 
         JSONObject result = new JSONObject();

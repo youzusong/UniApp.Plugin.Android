@@ -1,4 +1,4 @@
-package uni.dcloud.io.uniplugin_richalert;
+package com.youzusong.uniplugin_oauth;
 
 import org.junit.Test;
 
